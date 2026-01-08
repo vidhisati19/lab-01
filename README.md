@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** Vidhi
+- **Full Name:** Vidhi Sati
 - **CCID:** vsati
 
 ## References and Resources
